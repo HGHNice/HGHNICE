@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/csdn博客.png" width="430" height="100%" />
 
 
 -   <a href="[https://juejin.cn/user/1214304985296439/posts](https://blog.csdn.net/m0_56796630?spm=1000.2115.3001.10640)"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，万次阅读。
@@ -27,7 +27,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=HGHNICE&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+![HGHNICE's github stats](https://github-readme-stats.vercel.app/api?username=HGHNICE&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HGHNICE&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HGHNICE&layout=compact&langs_count=6)
