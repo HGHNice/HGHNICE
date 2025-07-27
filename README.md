@@ -6,10 +6,10 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/csdn博客.png" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="[https://juejin.cn/user/1214304985296439/posts](https://blog.csdn.net/m0_56796630?spm=1000.2115.3001.10640)"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，万次阅读。
+-   <a href="[https://juejin.cn/user/1214304985296439/posts](https://blog.csdn.net/m0_56796630?spm=1000.2115.3001.10640)"><code><img height="20" width="50" src="./images/csdn.png"></code></a>：CSDN优秀作者，万次阅读。
 
 ### **技术栈:**
 
