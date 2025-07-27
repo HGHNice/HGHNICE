@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## SRE工程师—筱恒
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+热爱架构、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
 
@@ -31,8 +31,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=HGHNICE&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHGHNICE&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HGHNICE&layout=compact&langs_count=6)
