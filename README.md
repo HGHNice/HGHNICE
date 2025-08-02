@@ -53,9 +53,6 @@
 
 <div align="center">
   
-  ### 活跃度图表
-  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HGHNICE&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
   ### 统计数据
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HGHNICE&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
