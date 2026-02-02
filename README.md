@@ -4,7 +4,7 @@
   # 👨‍💻 SRE工程师—筱恒
   
   <p align="center">
-    <em>热爱架构、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。</em>
+    <em>热爱架构、热爱技术。喜欢参与一些开源项目的讨论。</em>
   </p>
   
   <img align="right" alt="Coding GIF" src="./images/code.gif" width="400" height="300" />
